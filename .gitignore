@@ -1,0 +1,4 @@
+#*.css
+*.txt
+node_modules/
+#index.html
